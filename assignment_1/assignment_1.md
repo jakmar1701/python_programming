@@ -26,13 +26,13 @@ You should create a function, 'word\_count\_summary', which has the following fe
       table in the following form:
 
 |---------|-------|
-| WORD | COUNT |
+| WORD    | COUNT |
 |---------|-------|
-| round | 17 |
-| ability | 0 |
-| enemy | 1 |
+| round   |    17 |
+| ability |     0 |
+| enemy   |     1 |
 |---------|-------|
-| TOTAL | 18 |
+| TOTAL   |    18 |
 |---------|-------|
 
 - The columns in this view should adapt to the lengths of the words and numbers it contains: they should be wide enough
